@@ -32,6 +32,10 @@
 			<version>1.6.1</version>
 		</dependency>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 19b3aa69847cbc2e441f30ab300a61c0cf2b55c8
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
