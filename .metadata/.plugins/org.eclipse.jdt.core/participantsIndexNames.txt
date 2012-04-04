@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+C:\Documents and Settings\drierat\k-pax\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\579952304.index
+\kpax\src\main\java
+C:\Documents and Settings\drierat\k-pax\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1272462861.index
+\kpax\src\main\java
